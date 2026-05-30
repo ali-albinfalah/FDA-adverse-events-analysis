@@ -1,4 +1,4 @@
-# FDA Adverse Events — A Deep Dive into Supplements
+# FDA Adverse Events - A Deep Dive into Supplements
 
 ## Overview
 Analysis of adverse event reports from the FDA's Human Foods Complaint
