@@ -48,7 +48,7 @@ reporting the only safety net.
 - Reports are self-reported and not confirmed proof that the product caused
   the adverse event
 - Side effects may be linked to pre-existing health conditions
-- Report quality varies — some entries are incomplete or missing key details
+- Report quality varies. Some entries are incomplete or missing key details
 - Nearly 40% of reports did not disclose patient age
 
 ## Data Source
