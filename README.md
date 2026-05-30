@@ -13,7 +13,7 @@ duplicate rows.
 ## Problem Statement
 Between 1999 and 2025, the FDA recorded over 90,000 adverse event reports
 linked to food and dietary supplements. Unlike pharmaceuticals, supplements
-do not require FDA approval before reaching consumers — making post-market
+do not require FDA approval before reaching consumers, making post-market
 reporting the only safety net.
 
 ## Objectives
